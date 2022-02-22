@@ -30,8 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  God Father
     
-➥ Creator : [Sarathi](
-https://t.me/sarathi_admin)
+➥ Creator : [Sarathi](https://t.me/sarathi_admin)
 
 ➥ Language : Python3
 
