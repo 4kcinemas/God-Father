@@ -1,7 +1,7 @@
 {
-    "name": "Auto Filter Bot V3",
+    "name": "God Father Bot V3",
     "description": "A greater auto filter bot with features like IMDb support,inline mode,broadcast feature etc..",
-    "logo":"https://telegra.ph/file/ad9cb7fc42ec0e5e6d006.jpg",
+    "logo":"https://telegra.ph/file/4e9c801e3c031c5df78cb.jpg",
     "keywords": [
       "telegram",
       "auto-filter",
@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/DalinMathew/AutoFilterBotV3",
-    "repository": "https://github.com/DalinMathew/AutoFilterBotV3",
+    "website": "https://github.com/4kcinemas/God-Father",
+    "repository": "https://github.com/4kcinemas/God-Father",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
