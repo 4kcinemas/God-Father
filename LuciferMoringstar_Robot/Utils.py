@@ -192,7 +192,7 @@ async def get_poster(movie):
         filter = {'title': str(title).lower().strip()}
     cursor = Poster.find(filter)
     is_in_db = await cursor.to_list(length=1)
-    poster=https://telegra.ph/file/158aaf394a2f2b4c959de.jpg
+    poster=None
     if is_in_db:
         for nyav in is_in_db:
             poster=nyav.poster
