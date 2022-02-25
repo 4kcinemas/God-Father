@@ -37,4 +37,6 @@ ABOUT = """
 ➥ Library : Pyrogram Asyncio 1.13.0
 
 ➥ Our Channel : [Click Me](https://t.me/ss_linkz)
+
+➥ Our Group : [Click Me](https://t.me/NetflixMovies_sslinkz)
 """
