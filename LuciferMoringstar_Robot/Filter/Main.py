@@ -100,6 +100,8 @@ async def filter(client, message):
         buttons.append(
             [InlineKeyboardButton(text=f"📃 Pages 1/{data['total']}",callback_data="pages")]
         )
+        btn.insert(0,
+            [InlineKeyboardButton(text="⭕️ Join Our Channel ⭕️",url="https://t.me/ss_linkz")]
         poster=None
         if API_KEY:
             poster=await get_poster(search)
